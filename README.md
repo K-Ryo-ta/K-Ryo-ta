@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @K-Ryo-ta
-- 👀 I’m interested in programing using unity, python and C++.
-- 🌱 I’m currently learning python , C++.
+- 👀 I’m interested in programing using unity, python and C++,react.
+- 🌱 I’m currently learning python , C++,html,css,javascript,react.
 
 <!---
 K-Ryo-ta/K-Ryo-ta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
